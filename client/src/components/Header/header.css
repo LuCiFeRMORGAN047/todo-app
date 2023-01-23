@@ -1,0 +1,15 @@
+.Header{
+    display: flex;
+    justify-content: center;
+    height: fit-content;
+}
+.content{
+    margin-top: 10px;
+    height: fit-content;
+}
+h1 {
+    font-size: 72px;
+    background: -webkit-linear-gradient(rgb(5, 72, 255), rgba(255, 1, 1, 0.814));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
